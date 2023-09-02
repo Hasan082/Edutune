@@ -1,6 +1,6 @@
 # Edutune - html and Bootstrap Template
 
-## LIve Link- Click Here(https://edutune.netlify.app/)
+## LIve Link- https://edutune.netlify.app/
 
 ## Project Overview
 
@@ -79,4 +79,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 
 ## Support
 
-If you encounter any issues or have questions about using this template, please feel free to [contact us](mailto:dr.has82@gmail.com).
+If you encounter any issues or have questions about using this template, please feel free to [contact me](mailto:dr.has82@gmail.com).
