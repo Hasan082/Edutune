@@ -1,0 +1,38 @@
+
+.faq-page .card-header a:before,
+.cta-btn.contact-cta:hover,
+.cta-btn:hover,
+.footer-links li:hover a,
+.events-page .about-box:hover,
+.video-btn:hover,
+.inline-btn:hover,
+.latest-news-box li:hover a,
+.main_menu li:hover a,
+.boxed-btn:hover,
+.owl-nav button:hover i,
+.theme-color {
+    color: #00cf7f;
+}
+
+.search-bar-wrap,
+.cta-btn.contact-cta,
+.contact-form input[type="submit"],
+.share-social li:hover a,
+.social-links li:hover a,
+.video-btn,
+.edutune-pgn .page-link:focus, 
+.edutune-pgn .page-link:hover, 
+.edutune-pgn .page-link.active,
+span.date,
+input[type="submit"], 
+.boxed-btn {
+    background-color: #00cf7f;
+}
+
+
+
+.counter-single-item:hover,
+input[type="submit"], 
+.boxed-btn {
+    border-color: #00cf7f;
+}
