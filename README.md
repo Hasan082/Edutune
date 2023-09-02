@@ -1,5 +1,7 @@
 # Edutune - html and Bootstrap Template
 
+## LIve Link- Click Here(https://edutune.netlify.app/)
+
 ## Project Overview
 
 Edutune is a responsive HTML template designed for educational institutions, online courses, and event management websites. It is built using Bootstrap and includes various pages and assets to help you create an informative and engaging educational website.
@@ -55,7 +57,7 @@ Edutune/
 1. Clone the repository to your local machine:
 
    ```
-   git clone <repository_url>
+   git clone https://github.com/Hasan082/Edutune.git
    ```
 
 2. Customize the template by editing the HTML and CSS files to match your branding and content.
@@ -73,12 +75,8 @@ Edutune/
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit/) file for details.
 
 ## Support
 
-If you encounter any issues or have questions about using this template, please feel free to [contact us](mailto:your@email.com).
-
----
-
-Feel free to replace placeholders, such as `<repository_url>` and `your@email.com`, with your actual information. This README file provides a basic structure and can be expanded upon as needed for your project's specific details and documentation.
+If you encounter any issues or have questions about using this template, please feel free to [contact us](mailto:dr.has82@gmail.com).
